@@ -1,0 +1,4 @@
+kopi: $0.4
+teh: $0.4
+milo: $0.5
+soft drinks: $1.2
